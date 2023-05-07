@@ -1318,9 +1318,13 @@ footer .content p span {
     align-items: center;
 }
 
+.scroll-top > i {
+    margin-top: -10px;
+}
+
 .scroll-top:hover {
-    background: var(--light);
-    color: var(--black);
+    background: var(--secondary);
+    color: var(--light);
 }
 
 /*--------------------- 13- Scroll-Top (End) ---------------------*/
