@@ -947,7 +947,7 @@ header #menu-btn:hover {
     color: var(--primary);
     font-weight: bold;
     text-decoration: none;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 .testimonial .single-product .product-content .product-rating  {
