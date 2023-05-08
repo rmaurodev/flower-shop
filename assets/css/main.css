@@ -1285,6 +1285,12 @@ footer .content p span {
     color: var(--black);
 }
 
+footer a.email,
+footer a.tel {
+    color: var(--black);
+    text-transform: lowercase;
+}
+
 /*--------------------- 12- Footer Area CSS (End) ---------------------*/
 
 
